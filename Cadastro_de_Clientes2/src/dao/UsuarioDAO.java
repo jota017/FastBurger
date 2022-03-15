@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 public class UsuarioDAO {
 
     private Connection connection;
-    Long id;
+    Long id1;
     String nome;
     String cpf;
     String email;
@@ -146,7 +146,7 @@ public class UsuarioDAO {
 
     public static void testarConexao() throws SQLException {
         try (Connection objConnection = new ConnectionFactory().getConnection()) {
-            JOptionPane.showMessageDialog(null, "Conex„o realizada com sucesso! ");
+            JOptionPane.showMessageDialog(null, "Conex√£o realizada com sucesso! ");
         }
     }
 
