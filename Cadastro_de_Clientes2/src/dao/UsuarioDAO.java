@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 public class UsuarioDAO {
 
     private Connection connection;
-    Long id1;
+    Long id;
     String nome;
     String cpf;
     String email;
