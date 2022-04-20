@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/dao/PedidosDAO.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/gui/CadastrarSanduiche.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/dao/SanduicheDAO.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/gui/CadastroPerfil.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/gui/TelaCarrinho.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/modelo/Pedidos.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/modelo/Usuario.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/factory/ConnectionFactory.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/gui/TelaSanduiches.java</file>
+            <file>file:/home/aluno/Documentos/Cadastro_de_FastBurger/src/modelo/ModelTable.java</file>
+        </group>
+    </open-files>
+</project-private>
